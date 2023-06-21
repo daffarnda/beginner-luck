@@ -2,12 +2,7 @@
 
 Welcome to the Technologies in Football repository! This repository aims to provide information and resources on the various technologies used in the world of football.
 
-## Table of Contents
 
-- [Introduction](#introduction)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
